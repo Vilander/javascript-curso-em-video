@@ -1,0 +1,40 @@
+body{
+    background-color: #27277e;
+    font: normal 15pt helvetica;
+    
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #0000004d;
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
+#btn{
+    align-items: baseline;
+    display: flex;
+    width: 200px;
+    height: 61px;
+    background: #7c9cd87e;
+    border-radius: 31px;
+    box-shadow: 3px 3px 8px #000e0e48;
+    margin: 0 auto;
+    font-weight: 700;
+}
+
+#btn:hover{
+    scale:1.1;
+}
