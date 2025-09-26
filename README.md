@@ -1,6 +1,6 @@
 # Atividades do Curso de JavaScript - Curso em Vídeo
 
-Este repositório contém todas as atividades e exercícios desenvolvidos durante o curso de JavaScript oferecido pela plataforma [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
+Este repositório contém todas as atividades e exercícios desenvolvidos durante o curso de JavaScript oferecido pela plataforma [Curso em Vídeo](https.cursoemvideo.com), ministrado pelo professor Gustavo Guanabara.
 
 ## Sobre o Curso
 
@@ -35,34 +35,45 @@ Este espaço serve como um registro do meu progresso no curso, contendo os códi
 Abaixo estão listados os exercícios concluídos até o momento, organizados pelos diretórios correspondentes às aulas.
 
 ### Aula 04
-* **ex001.html**: Introdução ao uso de `window.alert`, `window.confirm` e `window.prompt` para interação com o usuário.
+* [cite_start]**ex001.html**: Introdução ao uso de `window.alert`, `window.confirm` e `window.prompt` para interação com o usuário. [cite: 1]
 
 ### Aula 06
-* **ex002.html**: Armazenamento de dados em variáveis utilizando `prompt` e exibição com `alert`, concatenando strings.
-* **ex003.html**: Conversão de strings para números com `parseFloat` e realização de operações matemáticas básicas.
-* **ex004.html**: Manipulação de strings, utilizando `length`, `toUpperCase` e `toLowerCase`.
-* **ex005.html**: Primeiros passos com o DOM (Document Object Model), selecionando elementos com `getElementById`.
+* [cite_start]**ex002.html**: Armazenamento de dados em variáveis e concatenação de strings. [cite: 2]
+* [cite_start]**ex003.html**: Conversão de strings para números e realização de operações matemáticas. [cite: 3]
+* [cite_start]**ex004.html**: Manipulação de strings, utilizando `length`, `toUpperCase` e `toLowerCase`. [cite: 5]
+* [cite_start]**ex005.html**: Primeiros passos com o DOM (Document Object Model). [cite: 6]
 
 ### Aula 10
-* **ex006.html**: Manipulação de eventos do DOM, como `click`, `mouseenter` e `mouseout`, para criar interatividade.
-* **ex007.html**: Desenvolvimento de uma calculadora de soma simples, capturando valores de inputs e exibindo o resultado dinamicamente.
+* [cite_start]**ex006.html**: Manipulação de eventos do DOM (`click`, `mouseenter`, `mouseout`). [cite: 8, 11]
+* [cite_start]**ex007.html**: Desenvolvimento de uma calculadora de soma simples. [cite: 13]
 
 ### Aula 11
-* **ex010.html**: Utilização de estruturas condicionais (`if/else`) para verificar a nacionalidade do usuário com base no país de origem digitado.
+* [cite_start]**ex010.html**: Utilização de estruturas condicionais (`if/else`) para verificar a nacionalidade do usuário. [cite: 18, 20]
 
 ### Aula 12
-* **ex12.html e app.js**: Uso da estrutura `switch` para determinar o dia da semana a partir do objeto `Date`.
+* [cite_start]**ex12.html e app.js**: Uso da estrutura `switch` para determinar o dia da semana. [cite: 21, 70]
+
+### Aula 13 e 14
+* [cite_start]**ambiente.js**: Estudo e prática com laços de repetição `while`, `do...while` e `for`. [cite: 71]
+
+### Aula 15 - Variáveis Compostas (Arrays)
+* **ambiente.js**: Introdução a arrays, métodos como `push()`, `sort()` e a propriedade `length`.
+* [cite_start]**vetor.js**: Demonstração de como percorrer um array utilizando as estruturas `for` e `for...in`. [cite: 72]
+
+### Aula 16 - Funções
+* [cite_start]**funcao01.js a funcao05.js**: Conceitos avançados de funções, incluindo parâmetros, retorno, funções anônimas, fatorial e recursividade. [cite: 73, 74, 75, 76]
 
 ### Exercícios Práticos
-* **exercicio js/01**: **Hora do Dia**: Página que exibe uma mensagem e uma imagem correspondente à hora atual (manhã, tarde ou noite). O layout é estilizado com CSS, incluindo sombra na seção principal e texto centralizado no cabeçalho.
-* **exercicio js/02**: **Verificador de Idade**: Aplicação que solicita o ano de nascimento e o sexo do usuário para calcular a idade e exibir uma imagem correspondente à faixa etária e ao gênero. O estilo visual inclui um botão com sombra e posicionamento automático da margem.
-* **exercicio js/03**: **Contador**: Ferramenta que realiza uma contagem progressiva ou regressiva com base nos valores de início, fim e passo informados pelo usuário.
-* **exercicio js/04**: **Gerador de Tabuada**: Programa que gera a tabuada de um número inserido pelo usuário e a exibe em um elemento `select`.
+* [cite_start]**exercicio js/01 - Hora do Dia**: Página que exibe uma mensagem e imagem correspondente à hora atual. [cite: 22]
+* [cite_start]**exercicio js/02 - Verificador de Idade**: Aplicação que calcula a idade e exibe uma imagem correspondente à faixa etária e gênero. [cite: 25]
+* [cite_start]**exercicio js/03 - Contador**: Ferramenta que realiza uma contagem progressiva ou regressiva com base em valores de início, fim e passo. [cite: 30]
+* [cite_start]**exercicio js/04 - Gerador de Tabuada**: Programa que gera a tabuada de um número e a exibe em um elemento `select`. [cite: 33]
+* [cite_start]**exercicio js/05 - Analisador de Números**: Ferramenta que adiciona números a uma lista (array), valida os dados de entrada e, ao final, exibe diversas estatísticas como o total de números, o maior e o menor valor, a soma e a média. [cite: 36, 91, 93, 94]
 
-## Próximos Passos
+## Conclusão dos Módulos
 
-Atualmente, estou iniciando o módulo sobre variáveis compostas (Arrays) e Funções. Os próximos commits incluirão os exercícios relacionados a esses tópicos, aprofundando o conhecimento em estruturas de dados e na modularização do código em JavaScript.
+Com a finalização dos exercícios sobre Arrays e Funções, o conteúdo principal do curso foi coberto, passando desde os fundamentos da linguagem até a manipulação de dados de forma mais complexa e a estruturação do código de maneira modular. O repositório agora serve como um portfólio consolidado dos conhecimentos adquiridos.
 
 ---
-*Este repositório é um projeto de aprendizado e pode conter código em desenvolvimento.*
-*Autor: Vilander Costa*
+*Este repositório é um projeto de aprendizado.*
+[cite_start]*Autor: Vilander Costa* [cite: 24, 29, 32, 35, 39, 42]
