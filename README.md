@@ -35,40 +35,40 @@ Este espaço serve como um registro do meu progresso no curso, contendo os códi
 Abaixo estão listados os exercícios concluídos até o momento, organizados pelos diretórios correspondentes às aulas.
 
 ### Aula 04
-* **ex001.html**: Introdução ao uso de `window.alert`, `window.confirm` e `window.prompt` para interação com o usuário. [cite: 1]
+* **ex001.html**: Introdução ao uso de `window.alert`, `window.confirm` e `window.prompt` para interação com o usuário. : 1]
 
 ### Aula 06
-* **ex002.html**: Armazenamento de dados em variáveis e concatenação de strings. [cite: 2]
-* **ex003.html**: Conversão de strings para números e realização de operações matemáticas. [cite: 3]
-* **ex004.html**: Manipulação de strings, utilizando `length`, `toUpperCase` e `toLowerCase`. [cite: 5]
-* **ex005.html**: Primeiros passos com o DOM (Document Object Model). [cite: 6]
+* **ex002.html**: Armazenamento de dados em variáveis e concatenação de strings. 
+* **ex003.html**: Conversão de strings para números e realização de operações matemáticas. 
+* **ex004.html**: Manipulação de strings, utilizando `length`, `toUpperCase` e `toLowerCase`.
+* **ex005.html**: Primeiros passos com o DOM (Document Object Model).
 
 ### Aula 10
-* **ex006.html**: Manipulação de eventos do DOM (`click`, `mouseenter`, `mouseout`). [cite: 8, 11]
-* **ex007.html**: Desenvolvimento de uma calculadora de soma simples. [cite: 13]
+* **ex006.html**: Manipulação de eventos do DOM (`click`, `mouseenter`, `mouseout`). 
+* **ex007.html**: Desenvolvimento de uma calculadora de soma simples. 
 
 ### Aula 11
-* **ex010.html**: Utilização de estruturas condicionais (`if/else`) para verificar a nacionalidade do usuário. [cite: 18, 20]
+* **ex010.html**: Utilização de estruturas condicionais (`if/else`) para verificar a nacionalidade do usuário.
 
 ### Aula 12
-* **ex12.html e app.js**: Uso da estrutura `switch` para determinar o dia da semana. [cite: 21, 70]
+* **ex12.html e app.js**: Uso da estrutura `switch` para determinar o dia da semana.
 
 ### Aula 13 e 14
-* **ambiente.js**: Estudo e prática com laços de repetição `while`, `do...while` e `for`. [cite: 71]
+* **ambiente.js**: Estudo e prática com laços de repetição `while`, `do...while` e `for`.
 
 ### Aula 15 - Variáveis Compostas (Arrays)
 * **ambiente.js**: Introdução a arrays, métodos como `push()`, `sort()` e a propriedade `length`.
-* **vetor.js**: Demonstração de como percorrer um array utilizando as estruturas `for` e `for...in`. [cite: 72]
+* **vetor.js**: Demonstração de como percorrer um array utilizando as estruturas `for` e `for...in`.
 
 ### Aula 16 - Funções
-* **funcao01.js a funcao05.js**: Conceitos avançados de funções, incluindo parâmetros, retorno, funções anônimas, fatorial e recursividade. [cite: 73, 74, 75, 76]
+* **funcao01.js a funcao05.js**: Conceitos avançados de funções, incluindo parâmetros, retorno, funções anônimas, fatorial e recursividade. 
 
 ### Exercícios Práticos
-* **exercicio js/01 - Hora do Dia**: Página que exibe uma mensagem e imagem correspondente à hora atual. [cite: 22]
-* **exercicio js/02 - Verificador de Idade**: Aplicação que calcula a idade e exibe uma imagem correspondente à faixa etária e gênero. [cite: 25]
-* **exercicio js/03 - Contador**: Ferramenta que realiza uma contagem progressiva ou regressiva com base em valores de início, fim e passo. [cite: 30]
-* **exercicio js/04 - Gerador de Tabuada**: Programa que gera a tabuada de um número e a exibe em um elemento `select`. [cite: 33]
-* **exercicio js/05 - Analisador de Números**: Ferramenta que adiciona números a uma lista (array), valida os dados de entrada e, ao final, exibe diversas estatísticas como o total de números, o maior e o menor valor, a soma e a média. [cite: 36, 91, 93, 94]
+* **exercicio js/01 - Hora do Dia**: Página que exibe uma mensagem e imagem correspondente à hora atual. 
+* **exercicio js/02 - Verificador de Idade**: Aplicação que calcula a idade e exibe uma imagem correspondente à faixa etária e gênero. 
+* **exercicio js/03 - Contador**: Ferramenta que realiza uma contagem progressiva ou regressiva com base em valores de início, fim e passo. 
+* **exercicio js/04 - Gerador de Tabuada**: Programa que gera a tabuada de um número e a exibe em um elemento `select`. 
+* **exercicio js/05 - Analisador de Números**: Ferramenta que adiciona números a uma lista (array), valida os dados de entrada e, ao final, exibe diversas estatísticas como o total de números, o maior e o menor valor, a soma e a média. 
 
 ## Conclusão dos Módulos
 
