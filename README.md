@@ -76,4 +76,5 @@ Com a finalização dos exercícios sobre Arrays e Funções, o conteúdo princi
 
 ---
 *Este repositório é um projeto de aprendizado.*
-*Autor: Vilander Costa* [cite: 24, 29, 32, 35, 39, 42]
+
+*Autor: Vilander Costa* 
